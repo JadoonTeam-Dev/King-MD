@@ -1,6 +1,6 @@
-name: khan-md
+name: king-md
 services:
-  - name: khan-md-service
+  - name: king-md-service
     type: web
     ports:
       - 5000
